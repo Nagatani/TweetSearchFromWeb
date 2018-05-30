@@ -1,0 +1,10 @@
+{
+  "name": "tweetsearchfromweb",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "WTFPL",
+  "dependencies": {
+    "nightmare": "^3.0.1",
+    "vo": "^4.0.2"
+  }
+}
